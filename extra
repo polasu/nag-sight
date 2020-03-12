@@ -1,0 +1,21 @@
+// we need to create the following components first
+// 1.   navbar
+// 2.   sidebar
+// installations
+// npm i jquery --save
+// npm i bootstrap@4.3.1 --save
+// npm i popper.js --save
+// npm i chart.js --save
+// then set the top and side nav with styles in the corresponding html and css files
+// then create a route modue i.e. route.ts file in the src folder
+// then create those three components those are in side navbar
+// then create a route.ts file in the src folder
+// then wireup this in app.component.html with router-outlet
+// then in the app.component.ts file add this in the import section with RouterModule.forRoot
+// then fix the stylesheet in the each created component i.e. sales, order and health first in the app.component.html file changes
+// after fixing the routing links in the route.ts file then add links in the sidebar.html 
+// then install ng2-charts with the follwoing command
+// npm install ng2-charts@2.3.0 --save
+// npm install --save-dev ng2-charts-schematics  (no need to install)
+// create component called bar-chart, line-chart and pie-chart
+// then go to the section-sales.component.html and add the components created above
